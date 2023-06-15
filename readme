@@ -1,0 +1,9 @@
+
+
+1. 用python安装依赖包
+    pip install -r requirements
+
+2. 将有雾图像放在pot文件夹中
+
+3. 运行lfp.py
+    python lfp.py
